@@ -1,0 +1,5 @@
+train: ../pothole_blur_dataset/train/images
+val: ../pothole_blur_dataset/valid/images
+
+nc: 1
+names: ['Potholes']
